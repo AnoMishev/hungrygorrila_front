@@ -1,3 +1,6 @@
+TYPE NG SERVE TO START THE PROJECT, AND ALSO YOU NEED TO START THE BACKEND!
+
+
 # HungryGorrila
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
